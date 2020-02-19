@@ -9,9 +9,9 @@ class Cat(Animal):
         print(self.name + "eats")
     
     def sound(self):
-        print(self.sounds + "meow")
+        print(self.sounds + "Meow")
 
 cat_1 = Cat("Storm", "Cat")
 
 cat_1.food()
-cat_1.sound()
+cat_1.sond()

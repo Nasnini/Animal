@@ -21,5 +21,3 @@ if __name__ == "__main__":
     home.adopt_Pet(dog1)
     home.adopt_Pet(cat1)
     print(home.pets[0].name)
-
-
