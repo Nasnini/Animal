@@ -3,8 +3,7 @@ class Animal:
         self.name = name
         self.sounds = sounds
 
-    def Food(self):
-
+    def food(self):
 
         print("{0} eats".format(self.name))
 
